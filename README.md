@@ -1,7 +1,7 @@
-# Analitica.-Autos
+# Proyecto final analitica empresarial
 <div align="center">
 
-  <img src="logoautos1.webp" alt="logo" width="200" height="auto" />
+  <img src="logoautos2.webp" alt="logo" width="200" height="auto" />
   <h1>Correlación entre ventas de autos electricos y polucion en los años 2020, 2021, 2022</h1>
   
   <p>
@@ -44,42 +44,42 @@
 
 <br />
 
-<!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
+<!-- Índice -->
+# :notebook_with_decorative_cover: Índice
 
-- [About the Project](#star2-about-the-project)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Run Locally](#running-run-locally)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+- [Introducción a el proyecto](#star2-about-the-project)
+  * [Presentación](#space_invader-tech-stack)
+- [Proceso del proyecto](#toolbox-getting-started)
+  * [Pasos](#bangbang-prerequisites)
+  * [Hipotesis estadisticas complementarias](#gear-installation)
+- [Resultados](#eyes-usage)
+  * [Resultados análisis estadístico de dataset contaminación](#running-run-locally)
+  * [Resultados análisis estadístico de dataset ventas](#running-run-locally)
+  * [Resultados de los modelos de correlación de las variables](#running-run-locally)
+
+- [Conclusiones](#compass-roadmap)
+  * [Análisis estadístico](#running-run-locally)
+  * [Análisis correlación](#running-run-locally)
+  * [Hipotesis](#scroll-code-of-conduct)
+- [Codigos](#wave-contributing)
+  * [](#scroll-code-of-conduct)
   
 
-<!-- About the Project -->
-## :star2: About the Project
+<!-- Introducción a el proyecto -->
+## :star2: Introducción a el proyecto
 
-<div align="center"> 
+<div align="Presentación"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
 </div>
 
 
-<!-- TechStack -->
-### :space_invader: Tech Stack
+<!-- Presentación -->
+### Presentación
 
 <details>
-  <summary>Client</summary>
+  <summary>Presentación</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://www.typescriptlang.org/">Presentación</a></li>
     <li><a href="https://nextjs.org/">Next.js</a></li>
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
