@@ -1,0 +1,57 @@
+#Lectura de la base de datos: air pollution
+import numpy as np
+import pandas as pd
+from pandas import*
+dataframe = pd.read_csv("no2 - Hoja 1-3.csv",sep=',')
+dataframe
+a=np.arange
+dataframe
+df=pd.read_csv("no2 - Hoja 1-3.csv", sep=',')
+dataframe.iloc[:,:]
+
+#Maximo de air pollution año 2021
+pd.options.display.max_columns= 500
+dataframe.loc[:,["Country Name","NO2 temporal coverage (%) 2021"]].groupby(["Country Name","NO2 temporal coverage (%) 2021"]).mean()
+max = dataframe.loc[:,["NO2 temporal coverage (%) 2021"]].max()
+max
+
+#Paises maximo de air pollution 2021
+pd.options.display.max_columns= 500
+dataframe.loc[:,["Country Name","NO2 temporal coverage (%) 2021"]].groupby(["Country Name","NO2 temporal coverage (%) 2021"]).mean()
+max = dataframe.loc[:,["NO2 temporal coverage (%) 2021"]].max()
+df = dataframe.loc[(dataframe["NO2 temporal coverage (%) 2021"]==100),["Country Name"]]
+df['Country Name'].unique()
+
+#Minimo de air pollution 2021
+pd.options.display.max_columns= 500
+dataframe.loc[:,["Country Name","NO2 temporal coverage (%) 2021"]].groupby(["Country Name","NO2 temporal coverage (%) 2021"]).mean()
+min = dataframe.loc[:,["NO2 temporal coverage (%) 2021"]].min()
+min
+
+#Pais con el minimo de air pollution 2021
+df = dataframe.loc[(dataframe["NO2 temporal coverage (%) 2021"]==24.3),["Country Name"]]
+df
+
+#Seleccionar columna NO2 2021
+pd.options.display.max_columns= 500
+dataframe.loc[:,["NO2 temporal coverage (%) 2021"]].groupby(["NO2 temporal coverage (%) 2021"]).mean()
+
+#Moda de la columna NO2 2021
+mode = dataframe.loc[:,["NO2 temporal coverage (%) 2021"]].mode()
+mode
+
+#Mediana de la columna NO2 2021
+mediana = dataframe.loc[:,["NO2 temporal coverage (%) 2021"]].median()
+mediana
+
+#Media columna N02 2021
+mean = dataframe.loc[:,["NO2 temporal coverage (%) 2021"]].mean()
+mean
+
+#Varianza 2021
+varianza = dataframe.loc[:,["NO2 temporal coverage (%) 2021"]].var()
+varianza
+
+#Desviacion estandar 2021
+DesviaciónEstandar = dataframe.loc[:,["NO2 temporal coverage (%) 2021"]].std()
+DesviaciónEstandar
