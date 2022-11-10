@@ -1,7 +1,7 @@
 # Analitica.-Autos
 <div align="center">
 
-  <img src="assets/logoautos" alt="logo" width="200" height="auto" />
+  <img src="assets/logoautos.png" alt="logo" width="200" height="auto" />
   <h1>Correlación entre ventas de autos electricos y polucion en los años 2020, 2021, 2022</h1>
   
   <p>
