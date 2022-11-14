@@ -79,7 +79,7 @@
 <details>
   <summary>Presentación</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">Presentación</a></li>
+    <li><a href="https://docs.google.com/presentation/d/1-MnyyT9jfggdywjaKsorB0gn1DC5vBcwyUOzdoZ4ZMY/edit?usp=sharing">Presentación</a></li>
     <li><a href="https://nextjs.org/">Next.js</a></li>
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
