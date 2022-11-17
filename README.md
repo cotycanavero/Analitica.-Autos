@@ -112,7 +112,7 @@
 </details>
 
 <!-- conclusiones -->
-## :speech_balloon:conclusiones
+## :speech_balloon: conclusiones
 <div align="conclusiones analisis estadistico"> 
   <div align="conclusiones analisis estadistico"> 
   
