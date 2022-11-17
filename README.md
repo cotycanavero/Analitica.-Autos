@@ -49,39 +49,70 @@
 
 - [Introducción a el proyecto](#star2-introducción)
   * [Presentación](#wave-presentación)
-- [Proceso del proyecto](#toolbox-getting-started)
-  * [Pasos](#bangbang-prerequisites)
+- [Proceso del proyecto](#toolbox-proceso)
+  * [Pasos y resultados](#bangbang-prerequisites)
   * [Hipotesis estadisticas complementarias](#gear-installation)
-- [Resultados](#eyes-usage)
-  * [Resultados análisis estadístico de dataset contaminación](#running-run-locally)
-  * [Resultados análisis estadístico de dataset ventas](#running-run-locally)
-  * [Resultados de los modelos de correlación de las variables](#running-run-locally)
 
 - [Conclusiones](#compass-roadmap)
   * [Análisis estadístico](#running-run-locally)
   * [Análisis correlación](#running-run-locally)
   * [Hipotesis](#scroll-code-of-conduct)
-- [Codigos](#wave-contributing)
+- [Codigo](#wave-contributing)
   * [](#scroll-code-of-conduct)
   
 
 <!-- introducción -->
 ## :star2: introducción
 <div align="presentación"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <div align="presentación"> 
+  
 
-<!-- presentación -->
-### :wave: presentación
+</div>
+
 
 <details>
   <summary>presentación</summary>
   <ul>
-    <li><a href="https://docs.google.com/presentation/d/1-MnyyT9jfggdywjaKsorB0gn1DC5vBcwyUOzdoZ4ZMY/edit?usp=sharing">Presentación</a></li><div>
-    
+    <li>
+      <a href="https://docs.google.com/presentation/d/1-MnyyT9jfggdywjaKsorB0gn1DC5vBcwyUOzdoZ4ZMY/edit?usp=sharing">Presentación</a>
+    </li>
+  </ul>
+</details>
+
 <!-- proceso -->
 ## :toolbox: proceso
+<div align="pasos y resultados"> 
+  <div align="pasos y resultados"> 
+  
 
-<!-- Getting Started -->
-## 	:toolbox: Getting Started
+</div>
 
+
+<details>
+  <summary>pasos y resultados</summary>
+  <ul>
+    <li>
+      <a href="https://docs.google.com/presentation/d/1oWLcUQ55ScGKSxtt9NpSooRgMQ0N7AY_f6D26DDqi3o/edit?usp=sharing">Pasos y resultados</a>
+    </li>
+  </ul>
+</details>
+
+<div align="pasos y resultados"> 
+  <div align="pasos y resultados"> 
+  
+
+</div>
+
+
+<details>
+  <summary>hipotesis estadisticas complementarias</summary>
+  <ul>
+    <li>
+      <a href="https://docs.google.com/presentation/d/1BH0bBEJtszMfd44eI0t3ghPYHrKgl-6JS35SbYpyhm8/edit?usp=sharing">Hipotesis estadisticas complementarias</a>
+    </li>
+  </ul>
+</details>
+
+<!-- Conclusiones -->
+## :speech_balloon:conclusiones
 
