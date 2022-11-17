@@ -53,10 +53,8 @@
   * [Pasos y resultados](#bangbang-prerequisites)
   * [Hipotesis estadisticas complementarias](#gear-installation)
 
-- [Conclusiones](#compass-roadmap)
-  * [Análisis estadístico](#running-run-locally)
-  * [Análisis correlación](#running-run-locally)
-  * [Hipotesis](#scroll-code-of-conduct)
+- [Conclusiones](#speech_balloon-conclusiones)
+  * [Conclusiones del analisis estadistico y correlativo de las variables](#bangbang-prerequisites)
 - [Codigo](#wave-contributing)
   * [](#scroll-code-of-conduct)
   
@@ -113,6 +111,24 @@
   </ul>
 </details>
 
-<!-- Conclusiones -->
+<!-- conclusiones -->
 ## :speech_balloon:conclusiones
+<div align="conclusiones analisis estadistico"> 
+  <div align="conclusiones analisis estadistico"> 
+  
+
+</div>
+
+
+<details>
+  <summary>conclusiones analisis estadistico</summary>
+  <ul>
+    <li>
+      <a href="https://docs.google.com/presentation/d/1KFDvP7nuhQml9aOMP-PhEFWQiglo6yjRlE-BJybnmF8/edit?usp=sharing">Conclusiones analisis estadistico</a>
+    </li>
+  </ul>
+</details>
+
+<div align="conclusiones analisis estadistico"> 
+  <div align="conclusiones analisis estadistico"> 
 
