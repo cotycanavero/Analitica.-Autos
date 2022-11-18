@@ -163,7 +163,7 @@
   <summary>codigo</summary>
   <ul>
     <li>
-      <a href="https://docs.google.com/presentation/d/1KFDvP7nuhQml9aOMP-PhEFWQiglo6yjRlE-BJybnmF8/edit?usp=sharing">Codigo</a>
+      <a href="https://colab.research.google.com/drive/10_Ld13gmtCdAjTbItXDKeY5P5PWWzFF6?usp=sharing">Codigo</a>
     </li>
   </ul>
 </details>
