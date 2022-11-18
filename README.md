@@ -52,9 +52,10 @@
 - [Proceso del proyecto](#toolbox-proceso)
   * [Pasos y resultados](#bangbang-prerequisites)
   * [Hipotesis estadisticas complementarias](#gear-installation)
-
 - [Conclusiones](#speech_balloon-conclusiones)
   * [Conclusiones del analisis estadistico y correlativo de las variables](#bangbang-prerequisites)
+- [Datasets](#floppy_disk-datasets)
+  * [Datasets](#scroll-code-of-conduct)
 - [Codigo](#computer-codigo)
   * [Codigo](#scroll-code-of-conduct)
   
@@ -132,7 +133,24 @@
 <div align="conclusiones analisis estadistico"> 
   <div align="conclusiones analisis estadistico"> 
     
-<!-- codigo -->
+<!-- datasets -->
+## 💾 datasets
+<div align="datasets"> 
+  
+
+</div>
+
+
+<details>
+  <summary>datasets</summary>
+  <ul>
+    <li>
+      <a href="https://docs.google.com/presentation/d/1KFDvP7nuhQml9aOMP-PhEFWQiglo6yjRlE-BJybnmF8/edit?usp=sharing">Datasets</a>
+    </li>
+  </ul>
+</details>
+  
+  <!-- codigo -->
 ## :computer: codigo
 <div align="condigo"> 
   <div align="codigo"> 
