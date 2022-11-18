@@ -55,8 +55,8 @@
 
 - [Conclusiones](#speech_balloon-conclusiones)
   * [Conclusiones del analisis estadistico y correlativo de las variables](#bangbang-prerequisites)
-- [Codigo](#wave-contributing)
-  * [](#scroll-code-of-conduct)
+- [Codigo](#computer-codigo)
+  * [Codigo](#scroll-code-of-conduct)
   
 
 <!-- introducción -->
@@ -131,4 +131,21 @@
 
 <div align="conclusiones analisis estadistico"> 
   <div align="conclusiones analisis estadistico"> 
+    
+<!-- codigo -->
+## :computer: codigo
+<div align="condigo"> 
+  <div align="codigo"> 
+  
 
+</div>
+
+
+<details>
+  <summary>codigo</summary>
+  <ul>
+    <li>
+      <a href="https://docs.google.com/presentation/d/1KFDvP7nuhQml9aOMP-PhEFWQiglo6yjRlE-BJybnmF8/edit?usp=sharing">Codigo</a>
+    </li>
+  </ul>
+</details>
